@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Sobhan-Sarabi
+- 👀 I’m interested in python programing
+- 🌱 I’m currently learning Coursera Google IT Automation with Pytho
+
+<!---
+Sobhan-Sarabi/Sobhan-Sarabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
